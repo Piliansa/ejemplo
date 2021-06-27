@@ -1,2 +1,7 @@
 hola 
+<<<<<<< HEAD
 aca hay otra linea
+=======
+aca hay otra linea
+Esta linea la hice desde la rama develop local. 
+>>>>>>> develop
