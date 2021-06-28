@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hola 
 <<<<<<< HEAD
 aca hay otra linea
@@ -5,3 +6,6 @@ aca hay otra linea
 aca hay otra linea
 Esta linea la hice desde la rama develop local. 
 >>>>>>> develop
+=======
+Quiero actualizar la master.
+>>>>>>> 9e4fdd7b658f866494781d0689e9c245b803867f
